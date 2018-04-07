@@ -1,4 +1,14 @@
-# Alfred Themes
-## requires powerpack
+# Alfred Powerpack Themes
 
-Alfred Powerpack Themes that I built for personal use. Feel free to use them too, if you like it!
+Here's a collection of Alfred Powerpack Themes that I built for personal use. 
+Feel free to use them too...
+
+## Previews
+
+### macOS Light
+
+...
+
+### macOS Dark
+
+...
