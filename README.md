@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="alfred-unofficial.svg" width="60%" alt="Alfred - Modified logo" />
+</p>
+
 # Alfred Powerpack Themes
 
 Here's a collection of Alfred Powerpack Themes that I built for personal use. 
@@ -17,9 +21,7 @@ You have two options when it comes to installation and both options are availabl
 ### macOS Light
 
 <p align="center">
-  <a href="previews/macos-light.jpg">
-    <img src="previews/macos-light.jpg" width="60%" alt="macOS Light - Alfred Theme Preview" />
-  </a>
+  <img src="previews/macos-light.jpg" width="60%" alt="macOS Light - Alfred Theme Preview" />
 </p>
 
 <p align="center">
@@ -35,9 +37,7 @@ You have two options when it comes to installation and both options are availabl
 ### macOS Dark
 
 <p align="center">
-  <a href="previews/macos-dark.jpg">
-    <img src="previews/macos-dark.jpg" width="60%" alt="macOS Dark - Alfred Theme Preview" />
-  </a>
+  <img src="previews/macos-dark.jpg" width="60%" alt="macOS Dark - Alfred Theme Preview" />
 </p>
 
 <p align="center">
