@@ -8,17 +8,17 @@ Feel free to use them too...
 ### macOS Light
 
 <p align="center">
-  <a href="previews/macos-light.jpg" target="_blank">
+  <a href="previews/macos-light.jpg">
     <img src="previews/macos-light.jpg" width="60%" alt="macOS Light - Alfred Theme Preview" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.alfredapp.com/extras/theme/koaMZmdDEV/" target="_blank">
+  <a href="https://www.alfredapp.com/extras/theme/koaMZmdDEV/">
     <img src="https://img.shields.io/badge/Open-macOS%20Light%20Theme-lightgrey.svg" alt="Open in Alfred - macOS Light Theme" />
   </a>
 
-  <a href="macOS%20Light.alfredappearance" target="_blank">
+  <a href="macOS%20Light.alfredappearance">
     <img src="https://img.shields.io/badge/Download-macOS%20Light%20Theme-lightgrey.svg" alt="Download - macOS Light Theme" />
   </a>
 </p>
@@ -26,17 +26,17 @@ Feel free to use them too...
 ### macOS Dark
 
 <p align="center">
-  <a href="previews/macos-dark.jpg" target="_blank">
+  <a href="previews/macos-dark.jpg">
     <img src="previews/macos-dark.jpg" width="60%" alt="macOS Dark - Alfred Theme Preview" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.alfredapp.com/extras/theme/RDNVQJD1Sd/" target="_blank">
+  <a href="https://www.alfredapp.com/extras/theme/RDNVQJD1Sd/">
     <img src="https://img.shields.io/badge/Open-macOS%20Dark%20Theme-lightgrey.svg" alt="Open in Alfred - macOS Dark Theme" />
   </a>
 
-  <a href="macOS%20Dark.alfredappearance" target="_blank">
+  <a href="macOS%20Dark.alfredappearance">
     <img src="https://img.shields.io/badge/Download-macOS%20Dark%20Theme-lightgrey.svg" alt="Download - macOS Dark Theme" />
   </a>
 </p>
