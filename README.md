@@ -15,6 +15,8 @@ You have two options when it comes to installation and both options are availabl
 1. **Open** - You'll be redirected to official Alfred's site, to a specific url where I shared my theme. From their page, you can "Open theme in Alfred", confirm and a theme will be installed and applied.
 2. **Download** - You'll be redirected to the "RAW" file where you can save the file from your browser and once downloaded, double click it and a theme will be installed and applied in.
 
+> HINT: If you'd like to remove "Alfred logo" from appearing in your search bar, go to: `Alfred Preferences > Appearance > Options` and check `Hide hat on Alfred window`
+
 
 ## Previews
 
