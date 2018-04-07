@@ -41,7 +41,7 @@ Feel free to use them too...
   </a>
 </p>
 
-### Installation
+## Installation
 
 You have two options when it comes to installation and both options are available under each Preview.
 
